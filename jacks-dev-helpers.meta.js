@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Jack's Dev Helpers
-// @version      0.1.0.2021.2.25.0.39
+// @version      0.1.0.2021.2.25.0.46
 // @description  Hodgepodge of dev utils
-// @license      GNU GPLv3
+// @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @author       Jack McCown
 // @match        *://*/*
 // @namespace    jackmscripts
