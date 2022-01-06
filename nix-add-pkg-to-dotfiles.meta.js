@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Nix Add Pkg To Dotfiles
-// @version    0.1.0.2022.1.4.2.57
+// @version    0.1.0.2022.1.4.18.53
 // @match      *://search.nixos.org/*
 // @license    GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @namespace  jackmscripts
